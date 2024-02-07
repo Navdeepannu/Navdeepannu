@@ -10,8 +10,6 @@ Let's Connect:
 
 📸 Photography [Instagram]: https://www.instagram.com/_navdeepannu
 
-🔗 LinkedIn Profile: https://www.linkedin.com/in/navdeepannu 
-
 📧 Email: navdeepannu0@gmail.com
 
 I find sheer joy in unraveling the stories hidden within data, employing my skills in Python and SQL to conduct in-depth analyses. My GitHub repositories serve as a testament to my dedication, showcasing a diverse array of projects where I blend my programming prowess with analytical acumen.
