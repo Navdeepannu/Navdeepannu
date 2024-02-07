@@ -8,7 +8,7 @@
 
 Let's Connect:
 
-📸 Photography [Instagram]: https://www.instagram.com/_navdeepannu
+📸 Instagram: https://www.instagram.com/_navdeepannu
 
 📧 Email: navdeepannu0@gmail.com
 
